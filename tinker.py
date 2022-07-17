@@ -1,5 +1,3 @@
-from cgitb import text
-from codecs import getencoder
 from email.mime import application
 import tkinter as TK
 from tkinter import ttk
